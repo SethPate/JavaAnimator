@@ -2,7 +2,7 @@
 A Java Animator built for an object-oriented design class at Northeastern University.
 
 This Animator takes in a text file of animation instructions representing shapes, colors, and several kinds of transformations.
-The Animator stores this information in an abstract format, using the IShape and ITransformation classes.
+The Animator stores this information in an abstract format, using the IShape and ITransformation interfaces.
 The Animator can output each animation as an SVG, a Swing graphic in a GUI, or a textual representation.
 The user can use the command line to specify a speed (ticks per second), output format, and input file location.
 
