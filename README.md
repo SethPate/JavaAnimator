@@ -8,4 +8,4 @@ The user can use the command line to specify a speed (ticks per second), output 
 
 This program was meant as an exercise to teach the MVC (Model, View, Controller) concept, as well as design patterns such as Factory and Builder.
 
-Almost all of this code is my own work. However, some code in the TweenModelBuilder class supplied by the course instructor, Vidoje Mihajlovic.
+Almost all of this code is my own work. However, some code in the TweenModelBuilder and AnimationFileReader classes were supplied by the course instructor, Vidoje Mihajlovic.
